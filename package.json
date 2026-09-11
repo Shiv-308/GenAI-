@@ -10,6 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@google/genai": "^2.21.0"
+    "@google/genai": "^2.21.0",
+    "dotenv": "^17.4.2",
+    "env": "^0.0.2"
   }
 }
